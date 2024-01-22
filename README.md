@@ -1,5 +1,7 @@
 # Simple-Password-Manager
-This is a simple  password manager written in Python. The application allows users to securely store and retrieve their passwords. Passwords are encrypted using the Fernet symmetric key encryption from the cryptography library.
+This is a simple  password manager written in Python. The application allows users to securely store and retrieve their passwords. Passwords are encrypted using the Fernet symmetric key encryption from the cryptography library.  As a beginner, I've implemented features to securely store and retrieve passwords using Fernet symmetric key encryption from the cryptography library.
+
+Note: This project is a beginner's endeavor and may contain bugs. Your understanding and feedback are greatly appreciated.
 
 Features
 Add New Passwords: Users can add new passwords to the password store by providing a username and password. The passwords are securely encrypted before being stored in a text file.
